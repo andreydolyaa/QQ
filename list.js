@@ -13,5 +13,5 @@ const info = [
   "dig AXFR z.hackycorp.com @z.hackycorp.com", //query via specific dns srv
   "dig -t SOA key.z.hackycorp.com", //get DNS server
 
-  
+  ""
 ];
